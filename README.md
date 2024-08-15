@@ -1,24 +1,17 @@
-# weather
+# Weather_App
 
-## Project setup
-```
-npm install
-```
+## Description:
+Find out your weather and the weather in another city.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Technologies Used:
+Vue 3, Router, Vuex, API
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## GitHub Pages:
+https://denyskuchma.github.io/Weather_App/
 
-### Lints and fixes files
+## For Local Testing:
 ```
-npm run lint
+npm/yarn install
+npm/yarn run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
